@@ -1,0 +1,15 @@
+{
+    "asd": {
+        
+        "asd": "localhost",
+        "sss": "root",
+        "dd": "",
+        "ff": "sample"
+        
+    },
+
+    "flask": {
+        "host":"127.0.0.1",
+        "port": 5000 
+    }
+}

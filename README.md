@@ -50,3 +50,7 @@ Connection: close
   "translated_text": "nasayaat nga agsapa"
 }
 ```
+
+
+https://linguatools.org/language-apis/sentence-generating-api/
+https://random-word-api.herokuapp.com/home
